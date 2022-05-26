@@ -1,7 +1,4 @@
 color azul 
-<<<<<<< HEAD
 teclado
-=======
 
 hola - valentina
->>>>>>> 0591d7e7fcbbdff1cf6ad1541c0cc8acf946c469
